@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SSI.EdiViewer/SSI.EdiViewer.csproj" />
+  <Project Path="SSI.EdiViewer.Tests/SSI.EdiViewer.Tests.csproj" />
+</Solution>
